@@ -1,0 +1,10 @@
+Model\AlumnoModelo.class
+com\unjfsc\poo_practice_002\POO_Practice_002.class
+Model\Inscripcion.class
+Controller\ControladorAlumnoCurso.class
+View\VistaAlumnoCurso.class
+Model\InscripcionModelo.class
+Model\Curso.class
+Model\CursoModelo.class
+Model\Alumno.class
+biblioteca\LE.class
