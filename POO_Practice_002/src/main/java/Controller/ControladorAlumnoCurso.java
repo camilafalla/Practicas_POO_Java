@@ -11,12 +11,14 @@ import View.VistaAlumnoCurso;
  * @author Camila
  */
 public class ControladorAlumnoCurso {
+    //Atributos
     private AlumnoModelo alumnoModelo;
     private CursoModelo cursomodelo;
     private InscripcionModelo inscripcionModelo;
-    
+    private boolean test;
     private VistaAlumnoCurso vista;
     
+    //Constructor
     public ControladorAlumnoCurso(AlumnoModelo alumnoModelo, CursoModelo cursomodelo, InscripcionModelo inscripcionModelo, VistaAlumnoCurso vista){
         this.alumnoModelo = alumnoModelo;
         this.cursomodelo = cursomodelo;
